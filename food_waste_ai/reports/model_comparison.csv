@@ -1,0 +1,4 @@
+model,MAE,RMSE,R2
+Baseline (7-day avg),4.789,7.088,0.194
+RandomForest,2.594,4.011,0.742
+HistGradientBoosting,2.447,3.77,0.772

@@ -1,0 +1,48 @@
+store_id,category,ngo_id,kg,km
+S01,Bakery,N2,17.9,5.2
+S01,Cooked Meals,N2,6.9,5.2
+S01,Dairy,N2,10.4,5.2
+S01,Fruits,N2,5.5,5.2
+S01,Meat,N2,5.3,5.2
+S02,Fruits,N2,6.7,2.4
+S02,Meat,N2,6.5,2.4
+S02,Vegetables,N2,7.7,2.4
+S03,Cooked Meals,N8,20.7,7.9
+S04,Bakery,N3,12.5,3.8
+S04,Cooked Meals,N3,26.2,3.8
+S04,Dairy,N3,5.6,3.8
+S04,Meat,N3,8.7,3.8
+S04,Vegetables,N3,14.6,3.8
+S05,Bakery,N3,7.5,0.9
+S05,Cooked Meals,N3,10.6,0.9
+S05,Vegetables,N3,5.4,0.9
+S06,Bakery,N7,5.7,1.9
+S06,Cooked Meals,N4,10.4,2.4
+S06,Fruits,N7,5.3,1.9
+S06,Vegetables,N7,9.5,1.9
+S07,Cooked Meals,N8,5.2,4.6
+S07,Vegetables,N5,9.0,1.7
+S08,Bakery,N1,7.7,5.5
+S08,Cooked Meals,N3,7.7,6.2
+S08,Dairy,N1,5.0,5.5
+S08,Fruits,N1,9.2,5.5
+S08,Vegetables,N1,11.0,5.5
+S09,Bakery,N7,25.6,4.2
+S09,Cooked Meals,N4,30.3,4.4
+S09,Vegetables,N7,10.7,4.2
+S10,Bakery,N1,5.7,2.0
+S10,Cooked Meals,N3,16.8,4.9
+S10,Fruits,N1,6.6,2.0
+S10,Vegetables,N1,5.3,2.0
+S11,Bakery,N5,12.1,4.0
+S11,Cooked Meals,N8,15.2,5.9
+S11,Fruits,N5,5.5,4.0
+S11,Vegetables,N5,7.5,4.0
+S12,Cooked Meals,N2,14.0,1.1
+S13,Bakery,N2,1.4,8.3
+S13,Bakery,N5,18.3,8.9
+S13,Meat,N2,7.4,8.3
+S13,Vegetables,N2,7.7,8.3
+S15,Bakery,N1,5.1,2.5
+S15,Cooked Meals,N2,12.5,2.6
+S15,Dairy,N1,6.9,2.5
